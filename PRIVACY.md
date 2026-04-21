@@ -54,7 +54,7 @@ The install ID is a random UUID generated on first launch, stored locally, and u
 ## Your rights
 
 - **Access / deletion:** Everything Shopsense stores about you lives in your browser's local storage or in an anonymous install ID. You can delete it all in one click by removing the extension.
-- **Contact:** Questions about this policy? Open an issue at https://github.com/antonio-mastropaolo/shopsense/issues or email the address in the Chrome Web Store listing.
+- **Contact:** Questions about this policy? Open an issue at https://github.com/antonio-mastropaolo/shopsense-privacy/issues or email the address in the Chrome Web Store listing.
 
 ## Changes
 
